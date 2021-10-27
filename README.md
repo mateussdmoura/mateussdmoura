@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mateussdmoura
-- 👀 I’m interested in nodejs and Blockchain development
+- 👀 I’m interested in Web and Blockchain development
 - 🌱 I’m currently learning Web Scrapping with python
 - 💞️ I’m looking to collaborate on Business Ideas
 - 📫 How to reach me: @ me on IG, same username
