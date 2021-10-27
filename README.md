@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mateussdmoura
 - 👀 I’m interested in Web and Blockchain development
-- 🌱 I’m currently learning Web Scrapping with python
-- 💞️ I’m looking to collaborate on Business Ideas
+- 🌱 I’m currently learning typescript, nodejs and MongoDB
+- 💞️ I’m looking to collaborate on Applications ideas that have scalable business potencial
 - 📫 How to reach me: @ me on IG, same username
 
 <!---
